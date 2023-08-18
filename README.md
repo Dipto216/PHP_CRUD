@@ -1,2 +1,2 @@
 # PHP_CRUD
-Create , Edited , Show , Delete . #Session Database
+Create , Read , Update , Delete . #Session Database
